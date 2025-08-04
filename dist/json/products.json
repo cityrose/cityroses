@@ -320,17 +320,17 @@
         {
           "name": "كباب دجاج",
           "image": "./dist/images/66.jpg",
-          "price": "9"
+          "price": "9.5"
         },
         {
           "name": "شرحات دجاج",
           "image": "./dist/images/61.jpg",
-          "price": "9"
+          "price": "9.5"
         },
         {
           "name": "جناح دجاج",
           "image": "./dist/images/62.webp",
-          "price": "7"
+          "price": "7.5"
         },
         {
           "name": "دجاج مشوي على الفحم",
@@ -345,7 +345,7 @@
         {
           "name": "مارينا دجاج",
           "image": "./dist/images/65.jpg",
-          "price": "2"
+          "price": "2.25"
         }
       ]
     },
@@ -357,47 +357,47 @@
         {
           "name": "شقف غنم",
           "image": "./dist/images/121.jfif",
-          "price": "20"
+          "price": "20.5"
         },
         {
           "name": "كباب غنم",
           "image": "./dist/images/123.jfif",
-          "price": "19"
+          "price": "19.5"
         },
         {
           "name": "كباب خشخاش",
           "image": "./dist/images/125.jfif",
-          "price": "17"
+          "price": "17.5"
         },
         {
           "name": "كباب باتنجان",
           "image": "./dist/images/13.webp",
-          "price": "17"
+          "price": "17.5"
         },
         {
           "name": "كباب ديري",
           "image": "./dist/images/122.jfif",
-          "price": "17"
+          "price": "17.5"
         },
         {
           "name": "كباب بالمكسرات",
           "image": "./dist/images/124.jfif",
-          "price": "21"
+          "price": "21.5"
         },
         {
           "name": "وجبة مارينا غنم",
           "image": "./dist/images/65.jpg",
-          "price": "2.5"
+          "price": "2.75"
         },
         {
           "name": "وجبة معجوقة غنم",
           "image": "./dist/images/111.jfif",
-          "price": "5"
+          "price": "5.5"
         },
         {
           "name": "وجبة طوشكا غنم",
           "image": "./dist/images/333.jpg",
-          "price": "3.5"
+          "price": "3.75"
         }
       ]
     },
