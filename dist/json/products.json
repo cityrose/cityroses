@@ -117,12 +117,12 @@
         {
           "name": "وجبة زنجر",
           "image": "./dist/images/1.jpeg",
-          "price": "4.5"
+          "price": "4.75"
         },
         {
           "name": "وجبة سبايسي",
           "image": "./dist/images/10.jpg",
-          "price": "4.5"
+          "price": "4.75"
         },
         {
           "name": "وجبة كريسبي",
@@ -132,32 +132,32 @@
         {
           "name": "وجبة اسكالوب",
           "image": "./dist/images/1.jpeg",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة غواصة",
           "image": "./dist/images/logo.png",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة ناغيت",
           "image": "./dist/images/g.jpg",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة الشيف",
           "image": "./dist/images/logo.png",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة فاهيتا",
           "image": "./dist/images/4.jpg",
-          "price": "4.5"
+          "price": "4.75"
         },
         {
           "name": "وجبة مكسيكانو",
           "image": "./dist/images/6.jpeg",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة تندوري دجاج",
@@ -167,17 +167,17 @@
         {
           "name": "وجبة دجاج ترياكي",
           "image": "./dist/images/20.jpg",
-          "price": "4.75"
+          "price": "5.25"
         },
         {
           "name": "وجبة بيكاتا",
           "image": "./dist/images/f.jpg",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة منشوريان دجاج",
           "image": "./dist/images/7.jpeg",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة ستروغانوف",
@@ -192,17 +192,17 @@
         {
           "name": "وجبة اصابع دجاج",
           "image": "./dist/images/21.jpg",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة اسكالوب ميلانيز",
           "image": "./dist/images/u.jpeg",
-          "price": "5"
+          "price": "5.25"
         },
         {
           "name": "وجبة شرحات مضفاية بالحمض",
           "image": "./dist/images/f.jpg",
-          "price": "5"
+          "price": "5.25"
         }
       ]
     },
