@@ -57,7 +57,7 @@
           "name": "بيتزا مارغريتا",
           "image": "./dist/images/5.png",
           "price": "4.75",
-          "price2": "4"
+          "price2": "4.5"
         },
         {
           "name": "بيتزا محشية الاطراف",
@@ -421,17 +421,17 @@
         {
           "name": "سندويش شاورما دبل",
           "image": "https://tse4.mm.bing.net/th?id=OIP.UoT61U1vTLICuLJl8oumSgHaHa&pid=Api",
-          "price": "1.8"
+          "price": "2"
         },
         {
           "name": "سندويش شاورما",
           "image": "https://tse3.mm.bing.net/th?id=OIP.Tmu-FN5cBY9JYzPVHHAyiwHaDw&pid=Api",
-          "price": "1.5"
+          "price": "1.75"
         },
         {
           "name": "وجبة شاورما بانيه",
           "image": "https://tse1.mm.bing.net/th?id=OIP.hx_GJ9Sr-T5EKTGB0yeKSwHaEH&pid=Api",
-          "price": "4"
+          "price": "4.5"
         },
         {
           "name": "وجبة شاورما شيف",
