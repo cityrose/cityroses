@@ -320,32 +320,32 @@
         {
           "name": "كباب دجاج",
           "image": "./dist/images/66.jpg",
-          "price": "12"
+          "price": "11"
         },
         {
           "name": "شرحات دجاج",
           "image": "./dist/images/61.jpg",
-          "price": "12"
+          "price": "11"
         },
         {
           "name": "جناح دجاج",
           "image": "./dist/images/62.webp",
-          "price": "10"
+          "price": "9"
         },
         {
           "name": "دجاج مشوي على الفحم",
           "image": "./dist/images/63.jpg",
-          "price": "11"
+          "price": "10"
         },
         {
           "name": "شيش دجاج",
           "image": "./dist/images/64.jpg",
-          "price": "12"
+          "price": "11"
         },
         {
           "name": "مارينا دجاج",
           "image": "./dist/images/65.jpg",
-          "price": "3"
+          "price": "2.5"
         }
       ]
     },
@@ -527,17 +527,17 @@
         {
           "name": "منسف رز برياني مع فروج",
           "image": "./dist/images/manasef-f.jpeg",
-          "price": "13.5"
+          "price": "13"
         },
         {
           "name": "منسف فريكة مع فروج",
           "image": "./dist/images/manasef-f.jpeg",
-          "price": "13.5"
+          "price": "13"
         },
         {
           "name": "منسف رز كبسة مع فروج",
           "image": "./dist/images/manasef-f.jpeg",
-          "price": "13.5"
+          "price": "13"
         }
       ]
     },
